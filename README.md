@@ -24,11 +24,13 @@ This repository contains a collection of Google Colab notebooks demonstrating va
   
 - **Clustering Video**: [https://youtu.be/MwTRUYbWZAY]
   
-- **Anomaly Detection Video**: [Link]
+- **Anomaly Detection Video**: [https://youtu.be/ZksSEnGdMlY]
   
-- **Association Rules Mining Video**: [Link]
+- **Association Rules Mining Video**: [https://youtu.be/6ArjZVf1p-Y]
   
-- **Time Series Forecasting Video**: [Link]
+- **Time Series Forecasting - Univariate without Exogenous Variables Video**: [https://youtu.be/6kxwX9JTOBI]
+
+- **Time Series Forecasting - Univariate with Exogenous Variables Video**: [https://youtu.be/ksnATlJT4mI]
 
 ## Conclusion
 This project serves as a comprehensive guide to using PyCaret for various data mining tasks. Each tutorial is designed to help users understand the implementation of different machine learning techniques in a low-code environment. 
