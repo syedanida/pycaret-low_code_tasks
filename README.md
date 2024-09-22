@@ -20,9 +20,9 @@ This repository contains a collection of Google Colab notebooks demonstrating va
 
 - **Multiclass Classification Video**: [https://youtu.be/DtcyThCijgk]
   
-- **Regression Video**: [Link]
+- **Regression Video**: [https://youtu.be/ad_fD4py4Tc]
   
-- **Clustering Video**: [Link]
+- **Clustering Video**: [https://youtu.be/MwTRUYbWZAY]
   
 - **Anomaly Detection Video**: [Link]
   
