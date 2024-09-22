@@ -16,9 +16,7 @@ This repository contains a collection of Google Colab notebooks demonstrating va
 
 
 ## Video Links
-- **Binary Classification Video**: [Link]
-  
-- **Multiclass Classification Video**: [Link]
+- **Binary/Multiclass Classification Video**: [Link]
   
 - **Regression Video**: [Link]
   
